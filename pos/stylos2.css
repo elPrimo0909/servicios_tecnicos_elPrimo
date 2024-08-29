@@ -1,0 +1,17 @@
+header {
+    width: 90%;
+    margin: auto;
+    background-color: #0ea947;
+    color: yellow;
+    padding: 1em;
+    border-radius: 5px;
+    border-bottom: 1em;
+}
+
+.linknavegacion {
+    background-color: white;
+    color: black;
+    border: 8px solid #315285;
+    border-radius: 5px;
+    padding: 5px;
+}
