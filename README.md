@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<h1 align="center">SERVICIOS TECNICOS</h1>
+<h1 align="center">SOFTWARE SERVICIOS TECNICOS</h1>
 
 <a href="https://sm-software-colombia.github.io/sm/img/logoPOS2.png" id="logo"></a>
 <br/>
@@ -21,4 +21,3 @@
 
 
 
-- Soporte: smsoftwarecolombia@gmail.com
