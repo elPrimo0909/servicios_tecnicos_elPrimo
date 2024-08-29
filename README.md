@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<h1 align="center">SM POS SERVICIOS TECNICOS</h1>
+<h1 align="center">SERVICIOS TECNICOS</h1>
 
 <a href="https://sm-software-colombia.github.io/sm/img/logoPOS2.png" id="logo"></a>
 <br/>
