@@ -17,7 +17,7 @@
 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/SM_servicios_DESKTOP3.png" > 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/servicios2.png" > 
-<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/servicios4.pngg" >
+<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/servicios4.png" >
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos8.png" >
 
 <a href="https://sm-software-colombia.github.io/sm/img/logoPOS2.png" id="logo"></a>
