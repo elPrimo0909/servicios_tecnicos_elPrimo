@@ -16,7 +16,7 @@
 
 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/SM_servicios_DESKTOP3.png" > 
-<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos2.png" > 
+<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/servicios2.png" > 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos3.png" >
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos8.png" >
 
