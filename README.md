@@ -3,13 +3,6 @@
 
 <h1 align="center">SOFTWARE SERVICIOS TECNICOS</h1>
 
-<a href="https://sm-software-colombia.github.io/sm/img/logoPOS2.png" id="logo"></a>
-<br/>
-
-<p align="center">
-
-
-<h1 align="center">SOFTWARE RESTAURANTES</h1>
 
 <p align="center">
 
